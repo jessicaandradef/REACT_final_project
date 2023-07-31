@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Cormorant", serif;
+  background-color: rgb(33, 37, 41);
+  color: rgb(222, 226, 230);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
